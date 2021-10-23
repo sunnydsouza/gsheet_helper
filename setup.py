@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="gsheets_helper",                     # This is the name of the package
-    version="0.0.1",                        # The initial release version
+    version="0.0.3",                        # The initial release version
     author="Sunny DSouza",                     # Full name of the author
     description="Helper functions wrapper over the google sheets python api",
     long_description=long_description,      # Long description read from the the readme file
